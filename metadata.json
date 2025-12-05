@@ -1,0 +1,5 @@
+{
+  "name": "Betfair Historical Data Downloader",
+  "description": "A portable, containerized manager-worker tool to download and parse Betfair historical data (Basic Plan) with real-time monitoring and controls.",
+  "requestFramePermissions": []
+}
